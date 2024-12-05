@@ -1,0 +1,31 @@
+name: Update Webshare Status
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-incidents:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v5.1.0
+
+      - name: Install dependencies
+        run: go mod tidy
+
+      - name: Run Webshare Status Update
+        run: go run main.go
+
+      - name: Set Remote URL
+        run: git remote set-url origin https://github.com/${{ github.repository }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
