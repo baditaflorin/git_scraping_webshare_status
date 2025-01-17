@@ -1909,5 +1909,12 @@
     "title": "Elevated proxy response rate",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services are now back to normal operations. Underlying issue is addressed.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JE9HS2NQJKSBEHGNA3HAZY05"
+  },
+  "https://status.webshare.io//incidents/01JHQSAZZMPCMSQWPRRM5RE7Y8": {
+    "id": "https://status.webshare.io//incidents/01JHQSAZZMPCMSQWPRRM5RE7Y8",
+    "updated": "2025-01-16T20:19:50.848Z",
+    "title": "Dashboard not loading",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is resolved with no additional events.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JHQSAZZMPCMSQWPRRM5RE7Y8"
   }
 }
