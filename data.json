@@ -1930,5 +1930,19 @@
     "title": "Partial outage",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems have been performing as usual for the past two hours.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JJC8DDB17DB43J9KF0405XVX"
+  },
+  "https://status.webshare.io//incidents/01JJEH579HFPBEAHNCVFSFKHDY": {
+    "id": "https://status.webshare.io//incidents/01JJEH579HFPBEAHNCVFSFKHDY",
+    "updated": "2025-01-25T13:25:21.007Z",
+    "title": "Partial outage",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eIncident resolved\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JJEH579HFPBEAHNCVFSFKHDY"
+  },
+  "https://status.webshare.io//incidents/01JJFN8ZNHSYD1A8P5C4NBMYMQ": {
+    "id": "https://status.webshare.io//incidents/01JJFN8ZNHSYD1A8P5C4NBMYMQ",
+    "updated": "2025-01-25T22:10:27.052Z",
+    "title": "Elevated error rate for proxy and API",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is now resolved\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JJFN8ZNHSYD1A8P5C4NBMYMQ"
   }
 }
