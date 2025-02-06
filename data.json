@@ -1944,5 +1944,12 @@
     "title": "Elevated error rate for proxy and API",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is now resolved\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JJFN8ZNHSYD1A8P5C4NBMYMQ"
+  },
+  "https://status.webshare.io//incidents/01JKB1PKNMXYFDKNSRZEDDN4AW": {
+    "id": "https://status.webshare.io//incidents/01JKB1PKNMXYFDKNSRZEDDN4AW",
+    "updated": "2025-02-05T17:30:57.893Z",
+    "title": "Dashboard: degraded performance",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eServices are operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JKB1PKNMXYFDKNSRZEDDN4AW"
   }
 }
