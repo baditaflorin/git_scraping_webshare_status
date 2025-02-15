@@ -1951,5 +1951,12 @@
     "title": "Dashboard: degraded performance",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eServices are operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JKB1PKNMXYFDKNSRZEDDN4AW"
+  },
+  "https://status.webshare.io//incidents/01JM22Q6022H3Z2X9BH96YM9HW": {
+    "id": "https://status.webshare.io//incidents/01JM22Q6022H3Z2X9BH96YM9HW",
+    "updated": "2025-02-14T11:33:46.745Z",
+    "title": "Pricing and IP replacement slow to load or not working",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are again operational. We are working on a permnent fix!",
+    "link": "https://status.webshare.io//incidents/01JM22Q6022H3Z2X9BH96YM9HW"
   }
 }
