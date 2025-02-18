@@ -1965,5 +1965,12 @@
     "title": "Slowdown in Webshare API and Dashboard",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is resolved.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JM558M1D0JPF4ZX1X76B691M"
+  },
+  "https://status.webshare.io//incidents/01JMA9EW4V5ENQ5WBPD0TMECG4": {
+    "id": "https://status.webshare.io//incidents/01JMA9EW4V5ENQ5WBPD0TMECG4",
+    "updated": "2025-02-17T16:12:21.579Z",
+    "title": "Dashboard is slow to load",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are operating normally.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JMA9EW4V5ENQ5WBPD0TMECG4"
   }
 }
