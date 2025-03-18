@@ -1979,5 +1979,12 @@
     "title": "Dashboard and Proxies slow/not working",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eService back to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JMC5GSRD494473J54N9E4H1Z"
+  },
+  "https://status.webshare.io//incidents/01JPJ9N5SB71PBCP58SR10NER8": {
+    "id": "https://status.webshare.io//incidents/01JPJ9N5SB71PBCP58SR10NER8",
+    "updated": "2025-03-17T15:59:03.903Z",
+    "title": "Proxy list not loading, dashboard unavailable",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services are operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JPJ9N5SB71PBCP58SR10NER8"
   }
 }
