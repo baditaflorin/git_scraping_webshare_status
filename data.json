@@ -2014,5 +2014,12 @@
     "title": "Dashboard is slow to load and can freeze",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eServices are returned to normal. There has been a delay in some proxy lists that will be getting back to normal now.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JR88JQMGYC9FNRXVD5M6H30T"
+  },
+  "https://status.webshare.io//incidents/01JRJ54682W352HJ2WV25TEB88": {
+    "id": "https://status.webshare.io//incidents/01JRJ54682W352HJ2WV25TEB88",
+    "updated": "2025-04-11T10:48:05.134Z",
+    "title": "Proxy List not loading",
+    "summary": "\u003cb\u003eStatus: Monitoring\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eService are returning to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JRJ54682W352HJ2WV25TEB88"
   }
 }
