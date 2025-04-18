@@ -2021,5 +2021,12 @@
     "title": "Proxy List not loading",
     "summary": "\u003cb\u003eStatus: Monitoring\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eService are returning to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JRJ54682W352HJ2WV25TEB88"
+  },
+  "https://status.webshare.io//incidents/01JS0PJ579CQEEV03KZ7T5V1G7": {
+    "id": "https://status.webshare.io//incidents/01JS0PJ579CQEEV03KZ7T5V1G7",
+    "updated": "2025-04-17T03:19:39.582Z",
+    "title": "Network outage on Webshare API and Proxies",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services back to normal and operating without issues.\n\nOVH region completely dropped from internet at 18:34 PST. It came back at 19:12 PST. It took until 19:30 PST for all transient network issues to resolve by itself.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JS0PJ579CQEEV03KZ7T5V1G7"
   }
 }
