@@ -2028,5 +2028,12 @@
     "title": "Network outage on Webshare API and Proxies",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services back to normal and operating without issues.\n\nOVH region completely dropped from internet at 18:34 PST. It came back at 19:12 PST. It took until 19:30 PST for all transient network issues to resolve by itself.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JS0PJ579CQEEV03KZ7T5V1G7"
+  },
+  "https://status.webshare.io//incidents/01JSXCRDVHQWN82BMZ1MM6VFYK": {
+    "id": "https://status.webshare.io//incidents/01JSXCRDVHQWN82BMZ1MM6VFYK",
+    "updated": "2025-04-28T06:18:00.000Z",
+    "title": "Elevated proxy error rates when using proxies",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eWe have resolved the issue. All proxies are fully operational. The delay in proxy list updates are now resolved too.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JSXCRDVHQWN82BMZ1MM6VFYK"
   }
 }
