@@ -2035,5 +2035,12 @@
     "title": "Elevated proxy error rates when using proxies",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eWe have resolved the issue. All proxies are fully operational. The delay in proxy list updates are now resolved too.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JSXCRDVHQWN82BMZ1MM6VFYK"
+  },
+  "https://status.webshare.io//incidents/01JTJFFEP7YCHJQQ1YGSNE2ZHB": {
+    "id": "https://status.webshare.io//incidents/01JTJFFEP7YCHJQQ1YGSNE2ZHB",
+    "updated": "2025-05-06T09:32:00.000Z",
+    "title": "Dashboard unavailable",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eServices are back to normal.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eHome Page (www.webshare.io) (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JTJFFEP7YCHJQQ1YGSNE2ZHB"
   }
 }
