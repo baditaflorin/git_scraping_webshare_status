@@ -2042,5 +2042,19 @@
     "title": "Dashboard unavailable",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eServices are back to normal.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eHome Page (www.webshare.io) (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JTJFFEP7YCHJQQ1YGSNE2ZHB"
+  },
+  "https://status.webshare.io//incidents/01JTMZS31A2FX0QAF1Y90EQVA9": {
+    "id": "https://status.webshare.io//incidents/01JTMZS31A2FX0QAF1Y90EQVA9",
+    "updated": "2025-05-07T15:00:00.362Z",
+    "title": "Maintenance: Partial service interruption",
+    "summary": "\u003cb\u003eStatus: Complete\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eMaintenance has completed\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Under maintenance)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JTMZS31A2FX0QAF1Y90EQVA9"
+  },
+  "https://status.webshare.io//incidents/01JTNAXZJ469MQ6Y37R7Q48Y44": {
+    "id": "https://status.webshare.io//incidents/01JTNAXZJ469MQ6Y37R7Q48Y44",
+    "updated": "2025-05-07T12:31:19.801Z",
+    "title": "Dashboard not loading",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eDashboard is operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JTNAXZJ469MQ6Y37R7Q48Y44"
   }
 }
