@@ -2056,5 +2056,12 @@
     "title": "Dashboard not loading",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eDashboard is operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JTNAXZJ469MQ6Y37R7Q48Y44"
+  },
+  "https://status.webshare.io//incidents/01JV24B7F7AJW80DBA1EKZ0BHK": {
+    "id": "https://status.webshare.io//incidents/01JV24B7F7AJW80DBA1EKZ0BHK",
+    "updated": "2025-05-12T11:51:47.102Z",
+    "title": "Dashboard unavailable",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eDashboard is now fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JV24B7F7AJW80DBA1EKZ0BHK"
   }
 }
