@@ -2063,5 +2063,12 @@
     "title": "Dashboard unavailable",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eDashboard is now fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JV24B7F7AJW80DBA1EKZ0BHK"
+  },
+  "https://status.webshare.io//incidents/01JVZ4KD0KAAJ1T6B0YQYGPB86": {
+    "id": "https://status.webshare.io//incidents/01JVZ4KD0KAAJ1T6B0YQYGPB86",
+    "updated": "2025-05-23T18:10:05.612Z",
+    "title": "Partial service interruption",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eProxy connectivity issues from Ireland (eu-west-1) is now resolved.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JVZ4KD0KAAJ1T6B0YQYGPB86"
   }
 }
