@@ -2091,5 +2091,19 @@
     "title": "Issue with Proxy List page and Proxy List APIs",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is now resolved\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JXNG6E4E866YGHHCJAFWEX7C"
+  },
+  "https://status.webshare.io//incidents/01JYDT1JFQ15EJAZGEYTEQ131P": {
+    "id": "https://status.webshare.io//incidents/01JYDT1JFQ15EJAZGEYTEQ131P",
+    "updated": "2025-06-23T07:54:21.302Z",
+    "title": "Dashboard not loading",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThe issue was fixed and everything is back to normal.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JYDT1JFQ15EJAZGEYTEQ131P"
+  },
+  "https://status.webshare.io//incidents/01JYE1RXN0MC0WCAHDJM2319HK": {
+    "id": "https://status.webshare.io//incidents/01JYE1RXN0MC0WCAHDJM2319HK",
+    "updated": "2025-06-23T13:03:24.590Z",
+    "title": "Degraded performance in proxies",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAPI status is back to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JYE1RXN0MC0WCAHDJM2319HK"
   }
 }
