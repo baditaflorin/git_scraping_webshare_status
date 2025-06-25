@@ -2105,5 +2105,19 @@
     "title": "Degraded performance in proxies",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAPI status is back to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JYE1RXN0MC0WCAHDJM2319HK"
+  },
+  "https://status.webshare.io//incidents/01JYGRJE5V06V7PNX0S4R6S5R0": {
+    "id": "https://status.webshare.io//incidents/01JYGRJE5V06V7PNX0S4R6S5R0",
+    "updated": "2025-06-23T23:00:00.000Z",
+    "title": "Degraded performance on dashboard",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services are working as expected\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eHome Page (www.webshare.io) (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JYGRJE5V06V7PNX0S4R6S5R0"
+  },
+  "https://status.webshare.io//incidents/01JYGSKFAKGFDNTK9D8TR2RASE": {
+    "id": "https://status.webshare.io//incidents/01JYGSKFAKGFDNTK9D8TR2RASE",
+    "updated": "2025-06-24T02:10:00.000Z",
+    "title": "Dashboard loading performance degraded",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services are back to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eHome Page (www.webshare.io) (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01JYGSKFAKGFDNTK9D8TR2RASE"
   }
 }
