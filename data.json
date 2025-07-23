@@ -2119,5 +2119,19 @@
     "title": "Dashboard loading performance degraded",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll services are back to normal\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eHome Page (www.webshare.io) (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01JYGSKFAKGFDNTK9D8TR2RASE"
+  },
+  "https://status.webshare.io//incidents/01K0SBJ4790RN4XV70EVEE00R1": {
+    "id": "https://status.webshare.io//incidents/01K0SBJ4790RN4XV70EVEE00R1",
+    "updated": "2025-07-22T17:46:17.184Z",
+    "title": "Elevated proxy response time and error rate for all regions",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eWe have resolved the underlying issue with the delay in processing proxy and API calls.\n\nWe are now backfilling any proxy list updates. You may see delays in updates to your proxy list during this time. When this incident is closed, you can assume that all backfilling is completed.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01K0SBJ4790RN4XV70EVEE00R1"
+  },
+  "https://status.webshare.io//incidents/01K0SSDD91RXSDZP68B3P333R1": {
+    "id": "https://status.webshare.io//incidents/01K0SSDD91RXSDZP68B3P333R1",
+    "updated": "2025-07-22T23:04:58.377Z",
+    "title": "Slow/error responses on API and Proxies",
+    "summary": "\u003cb\u003eStatus: Monitoring\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eWe have resolved the issue and are monitoring. Next ~2 hours we will bring up any missing features (e.g. proxy lists updating) and keep updating this page.\n\nWe have rebuilt the broken parts of the system and expect to not experience similar intermittent issues again. We will provide a complete post-mortem of the outage with a separate post in the next couple of days.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01K0SSDD91RXSDZP68B3P333R1"
   }
 }
