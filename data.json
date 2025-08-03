@@ -2140,5 +2140,12 @@
     "title": "Dashboard and proxies are slow",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eServices have returned to normal. Scheduled tasks like proxy list updates are catching up.\n\nOur server provider OVH still seems to be having some outage, however our actions have mitigated the vast majority of the impact.\n\nWe have concrete action items as outcomes from this incident to prevent this kind of outage in the future.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01K0YCH2FZWGGK00ER3SDNTWN4"
+  },
+  "https://status.webshare.io//incidents/01K1MDBGVBCDMJ961875TJFW3R": {
+    "id": "https://status.webshare.io//incidents/01K1MDBGVBCDMJ961875TJFW3R",
+    "updated": "2025-08-02T03:48:09.843Z",
+    "title": "Delayed loading with Webshare Dashboard",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is now resolved. Dashboard is accessible again.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01K1MDBGVBCDMJ961875TJFW3R"
   }
 }
