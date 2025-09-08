@@ -2147,5 +2147,12 @@
     "title": "Delayed loading with Webshare Dashboard",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThis incident is now resolved. Dashboard is accessible again.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01K1MDBGVBCDMJ961875TJFW3R"
+  },
+  "https://status.webshare.io//incidents/01K4J02ZPF4SCT6EJ8R27RYYFS": {
+    "id": "https://status.webshare.io//incidents/01K4J02ZPF4SCT6EJ8R27RYYFS",
+    "updated": "2025-09-07T13:19:46.556Z",
+    "title": "dashboard.webshare.io and API partially unavailable",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01K4J02ZPF4SCT6EJ8R27RYYFS"
   }
 }
