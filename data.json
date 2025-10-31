@@ -2154,5 +2154,12 @@
     "title": "dashboard.webshare.io and API partially unavailable",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01K4J02ZPF4SCT6EJ8R27RYYFS"
+  },
+  "https://status.webshare.io//incidents/01K8V5BJMS89JS8FKSX053NA5E": {
+    "id": "https://status.webshare.io//incidents/01K8V5BJMS89JS8FKSX053NA5E",
+    "updated": "2025-10-30T21:26:39.321Z",
+    "title": "dashboard not loading",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThe issue is resolved",
+    "link": "https://status.webshare.io//incidents/01K8V5BJMS89JS8FKSX053NA5E"
   }
 }
