@@ -2168,5 +2168,12 @@
     "title": "Proxies and Web Dashboard API not working",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eWebshare dashboard and proxy usage back to normal.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01K94ZSS6DTYRRFRV8GB4MDEAY"
+  },
+  "https://status.webshare.io//incidents/01K97170P0C7FNYQF766229SH6": {
+    "id": "https://status.webshare.io//incidents/01K97170P0C7FNYQF766229SH6",
+    "updated": "2025-11-04T09:07:50.585Z",
+    "title": "Dashboard not loading",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are operating normally.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01K97170P0C7FNYQF766229SH6"
   }
 }
