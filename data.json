@@ -2175,5 +2175,12 @@
     "title": "Dashboard not loading",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are operating normally.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01K97170P0C7FNYQF766229SH6"
+  },
+  "https://status.webshare.io//incidents/01K9K998GWEXY2E8VX6R39MR3Z": {
+    "id": "https://status.webshare.io//incidents/01K9K998GWEXY2E8VX6R39MR3Z",
+    "updated": "2025-11-09T05:10:27.216Z",
+    "title": "Payment processing issues",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll back to normal",
+    "link": "https://status.webshare.io//incidents/01K9K998GWEXY2E8VX6R39MR3Z"
   }
 }
