@@ -2189,5 +2189,12 @@
     "title": "Slow proxy replacements",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are operating normally.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01K9PF1J1XCCPW25SHV2FP3SJ5"
+  },
+  "https://status.webshare.io//incidents/01KADV2EKBK4XN4NEA9KFE4HAP": {
+    "id": "https://status.webshare.io//incidents/01KADV2EKBK4XN4NEA9KFE4HAP",
+    "updated": "2025-11-19T12:15:01.123Z",
+    "title": "Slow dashboard and proxy response",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eThe service has been fully restored.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01KADV2EKBK4XN4NEA9KFE4HAP"
   }
 }
