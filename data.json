@@ -2210,5 +2210,12 @@
     "title": "Proxy list updates taking longer than usual",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eProxy list update times are stable again.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01KF8SYEVRVNVDHH2AZYKTJ8QR"
+  },
+  "https://status.webshare.io//incidents/01KFB5KKM4S2YHWDQJ9TY7J8B4": {
+    "id": "https://status.webshare.io//incidents/01KFB5KKM4S2YHWDQJ9TY7J8B4",
+    "updated": "2026-01-19T14:00:52.803Z",
+    "title": "Slow load times",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01KFB5KKM4S2YHWDQJ9TY7J8B4"
   }
 }
