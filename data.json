@@ -2217,5 +2217,12 @@
     "title": "Slow load times",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01KFB5KKM4S2YHWDQJ9TY7J8B4"
+  },
+  "https://status.webshare.io//incidents/01KFN498SXHKVWJEZT11199YC0": {
+    "id": "https://status.webshare.io//incidents/01KFN498SXHKVWJEZT11199YC0",
+    "updated": "2026-01-23T10:52:53.895Z",
+    "title": "Proxy error rate increase",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eProxies are fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01KFN498SXHKVWJEZT11199YC0"
   }
 }
