@@ -2238,5 +2238,12 @@
     "title": "API is unavailable",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAll systems are operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eHome Page (www.webshare.io) (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01KHTPB74ZHVMGMA5Q1B0SB61Q"
+  },
+  "https://status.webshare.io//incidents/01KJ15WJ0DNANHTBCFR41ZQ57W": {
+    "id": "https://status.webshare.io//incidents/01KJ15WJ0DNANHTBCFR41ZQ57W",
+    "updated": "2026-02-21T22:54:49.932Z",
+    "title": "proxies inoperable for a few minutes",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eWe had an internal network outage from 22:18-22:25 UTC. Proxies were unusable for that time.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01KJ15WJ0DNANHTBCFR41ZQ57W"
   }
 }
