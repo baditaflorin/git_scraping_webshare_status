@@ -2266,5 +2266,12 @@
     "title": "Proxy and API performance degraded",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eIssue is resolved\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n\u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01KJDJJWEXECTRFYV9GMF95EXT"
+  },
+  "https://status.webshare.io//incidents/01KJYHRF23XQTSJYB3WC914B5K": {
+    "id": "https://status.webshare.io//incidents/01KJYHRF23XQTSJYB3WC914B5K",
+    "updated": "2026-03-05T09:14:40.278Z",
+    "title": "Proxies and dashboard experiencing degraded performance",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eAfter monitoring for a while, everything is working as expected.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n\u003cli\u003eProxy Server (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
+    "link": "https://status.webshare.io//incidents/01KJYHRF23XQTSJYB3WC914B5K"
   }
 }
