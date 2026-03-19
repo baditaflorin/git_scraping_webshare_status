@@ -2287,5 +2287,12 @@
     "title": "We have investigating and issue affecting the some parts of the dashboard",
     "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eDashboard is fully operational.\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003eAffected components\u003c/b\u003e\n          \u003cul\u003e\n          \u003cli\u003eWeb Dashboard/API (Operational)\u003c/li\u003e\n          \u003c/ul\u003e",
     "link": "https://status.webshare.io//incidents/01KKH44W1TTCXYVDQXRRV1V1RH"
+  },
+  "https://status.webshare.io//incidents/01KM0SY16NF0ADX236G02ZXGEG": {
+    "id": "https://status.webshare.io//incidents/01KM0SY16NF0ADX236G02ZXGEG",
+    "updated": "2026-03-18T16:16:37.978Z",
+    "title": "Degraded dashboard and proxy performance",
+    "summary": "\u003cb\u003eStatus: Resolved\u003c/b\u003e\u003cbr/\u003e\u003cbr/\u003eSystems are stable.",
+    "link": "https://status.webshare.io//incidents/01KM0SY16NF0ADX236G02ZXGEG"
   }
 }
